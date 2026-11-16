@@ -60,7 +60,7 @@ The global secrets and environment configuration management market is estimated 
 
 *Ranked in descending order by GitHub stargazers.*
 
-| 📦 Project | ⭐ Stars | 🎯 Primary Focus | 📜 License | 🛠️ Key Capabilities |
+| 📦 Project | ⭐ GitHub_Stars | 🎯 Primary Focus | 📜 License | 🛠️ Key Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Vaultwarden](https://github.com/dani-garcia/vaultwarden)** | [![Stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=social&color=white)](https://github.com/dani-garcia/vaultwarden/stargazers) | Self-Hosted Password & Secret Vault | AGPL-3.0 | Lightweight Bitwarden-compatible server written in Rust. Supports SQLite/PostgreSQL, Bitwarden desktop/CLI apps, web vault, and OIDC SSO. |
 | **[HashiCorp Vault (Community Edition)](https://github.com/hashicorp/vault)** | [![Stars](https://img.shields.io/github/stars/hashicorp/vault?style=social&color=white)](https://github.com/hashicorp/vault/stargazers) | Enterprise Secrets & PKI Engine | BSL-1.1 | Industry-standard engine for dynamic database/cloud credentials, leased secrets, transit encryption, revocation trees, and detailed audit trails. |
@@ -131,3 +131,12 @@ Thank you for exploring and utilizing this curated collection! If you find this 
 <div align="center">
   <sub>Maintained by the DevOps and security community for safer, decoupled configuration.</sub>
 </div>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Global-Collection-Variable-Management&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Global-Collection-Variable-Management_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Global-Collection-Variable-Management_growth.svg">
+  </picture>
+</a>
