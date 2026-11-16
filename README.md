@@ -1,36 +1,50 @@
-# Awesome Global & Collection Variable Management
+<div align="center">
 
+<img src="./assets/banner.svg" alt="Awesome Global &amp; Collection Variable Management Banner" width="100%" />
+
+# 🔐 Awesome Global & Collection Variable Management ⚡
+
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Tracked Repositories](https://img.shields.io/badge/Maintained%20Tools-Open%20Source%20%26%20SaaS-blue.svg)](#table-of-contents)
+[![Tracked Repositories](https://img.shields.io/badge/Maintained%20Tools-Open%20Source%20%26%20SaaS-blue.svg)](#-table-of-contents)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-> A curated list of top SaaS platforms and open-source tools for **Global & Collection Variable Management**, **Secrets Management**, **Environment Configuration**, and **Self-Hosted Vaults**.
+<p align="center">
+  <strong>Curated ecosystem of SaaS platforms &amp; open-source projects for Secrets Management, Environment Variables, Collection Scopes &amp; Self-Hosted Vaults.</strong>
+</p>
 
-Centralized variable and secrets management ensures secure, consistent configuration across multi-stage CI/CD pipelines, container clusters, local developer machines, and API workspaces. This repository indexes the leading cloud services and battle-tested open-source repositories to manage `.env` files, dynamic credentials, API environment scopes, and encryption keys.
-
----
-
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Hosted Platforms](#saas--hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Feature Matrix & Selection Guide](#feature-matrix--selection-guide)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+</div>
 
 ---
 
-## Sector Overview & Market Dynamics
+Centralized variable and secrets management ensures secure, consistent configuration across multi-stage CI/CD pipelines, container clusters, local developer machines, and API testing suites. This repository indexes the leading cloud services and battle-tested open-source repositories to manage `.env` files, dynamic credentials, API collection scopes, and encryption keys.
+
+---
+
+## 📑 Table of Contents
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🧭 Feature Matrix & Selection Guide](#-feature-matrix--selection-guide)
+- [📈 Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsoring](#-support--sponsoring)
+- [⚠️ Disclaimer](#️-disclaimer)
+
+---
+
+## 📊 Sector Overview & Market Dynamics
 
 The global secrets and environment configuration management market is estimated at **$4.2B to $4.6B in 2025** and projected to surpass **$5.3B by 2026** (CAGR ~14–15%), driven by the exponential proliferation of machine-to-machine identities, microservices, and automated CI/CD pipelines. The sector is **moderately fragmented**: baseline adoption is heavily concentrated among hyperscale cloud providers (AWS, Microsoft Azure, Google Cloud) and established enterprise vaults, yet intensely contested by fast-growing developer-first platforms, open-source challengers, and specialized runtime injection tooling.
 
 ---
 
-## SaaS & Hosted Platforms
+## ☁️ SaaS & Hosted Platforms
 
 *Ranked in descending order by company valuation / market capitalization.*
 
-| Product | Company Size (Valuation / Market Cap) | Starting Price (Paid Tier) | Free Tier / Trial Limits | Description & Scope |
+| 🏢 Product | 🌐 Company Size (Valuation / Market Cap) | 💵 Starting Price (Paid Tier) | 🎁 Free Tier / Trial Limits | 📝 Description & Scope |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Microsoft Azure App Configuration](https://azure.microsoft.com/en-us/products/app-configuration/)** | **~$3.1 Trillion** (Public: MSFT) | **$1.20/day** per Standard store instance | **Free tier**: 1 store per subscription, 10 MB storage, 1,000 requests/day | Centralized configuration store with feature flag management, key-value labels, and native integration across Azure services and Kubernetes. |
 | **[Google Cloud Secret Manager](https://cloud.google.com/secret-manager)** | **~$2.2 Trillion** (Public: GOOGL) | **$0.06/active secret version/month** (+ $0.03 per 10k API operations) | **Free tier**: 6 active secret versions, 10,000 access operations/month, plus $300 new customer credit (90 days) | Fully managed, audit-logged secret storage with automated replication, fine-grained Cloud IAM policies, and rotation workflows. |
@@ -42,11 +56,11 @@ The global secrets and environment configuration management market is estimated 
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 *Ranked in descending order by GitHub stargazers.*
 
-| Project | Stars | Primary Focus | License | Key Capabilities |
+| 📦 Project | ⭐ Stars | 🎯 Primary Focus | 📜 License | 🛠️ Key Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Vaultwarden](https://github.com/dani-garcia/vaultwarden)** | [![Stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=social&color=white)](https://github.com/dani-garcia/vaultwarden/stargazers) | Self-Hosted Password & Secret Vault | AGPL-3.0 | Lightweight Bitwarden-compatible server written in Rust. Supports SQLite/PostgreSQL, Bitwarden desktop/CLI apps, web vault, and OIDC SSO. |
 | **[HashiCorp Vault (Community Edition)](https://github.com/hashicorp/vault)** | [![Stars](https://img.shields.io/github/stars/hashicorp/vault?style=social&color=white)](https://github.com/hashicorp/vault/stargazers) | Enterprise Secrets & PKI Engine | BSL-1.1 | Industry-standard engine for dynamic database/cloud credentials, leased secrets, transit encryption, revocation trees, and detailed audit trails. |
@@ -64,7 +78,7 @@ The global secrets and environment configuration management market is estimated 
 
 ---
 
-## Feature Matrix & Selection Guide
+## 🧭 Feature Matrix & Selection Guide
 
 ```
 +-----------------------------------------------------------------------------------+
@@ -81,7 +95,13 @@ The global secrets and environment configuration management market is estimated 
 
 ---
 
-## How to Contribute
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Global-Collection-Variable-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Global-Collection-Variable-Management&type=date&legend=top-left)
+
+---
+
+## 🤝 How to Contribute
 
 1. Fork the repository.
 2. Add or update tool entries in `README.md` respecting established table schemas and sorting.
@@ -90,11 +110,24 @@ The global secrets and environment configuration management market is estimated 
 
 ---
 
-## Disclaimer
+## 💖 Support & Sponsoring
+
+Thank you for exploring and utilizing this curated collection! If you find this directory valuable for your engineering workflows, infrastructure architecture, or developer tooling decisions, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to help others discover it.
+- 🍴 **Fork and contribute** new tools, corrections, or updates.
+- 📢 **Share with colleagues, teammates, and DevOps communities**.
+- ☕ **Buy a coffee & sponsor**: Support continuous maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚠️ Disclaimer
 
 - This is a community-curated directory intended for research, architectural comparisons, and technical selection.
 - Secrets and variable managers handle mission-critical credentials. Always implement multi-factor authentication (MFA), least-privilege role-based access control (RBAC), and never push unencrypted credentials to public repositories.
 
 ---
 
-*Maintained by the DevOps and security community for safer, decoupled configuration.*
+<div align="center">
+  <sub>Maintained by the DevOps and security community for safer, decoupled configuration.</sub>
+</div>
