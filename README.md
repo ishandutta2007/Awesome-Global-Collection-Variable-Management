@@ -1,6 +1,6 @@
 # Awesome-Global-Collection-Variable-Management
 
-# Top Global & Collection Variable Management Ecosystem
+## Top Global & Collection Variable Management Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Secrets Management, Environment Configuration & Self-Hosted Vaults*  
